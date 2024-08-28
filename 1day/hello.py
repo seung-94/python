@@ -1,11 +1,6 @@
-import keyword
 
 def main():
-    print("hello, python")
-    string = "hellow" * 3
-    print(string)
-    print(keyword.kwlist)
+    print("hellow python")
 
 if __name__ == "__main__":
     main()
-
